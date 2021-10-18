@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: c4300d0f3b1e57e4ca148d184274ca89
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: f6c99ace576ac7443bd461fb51891b57
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 73e138d8776b27d40a9fc47ecc236d6e
+  - enabled: 1
+    path: Assets/Scenes/Forest Day.unity
+    guid: 9c1fb1d1feaec20428a7da30d258fbcf
+  - enabled: 1
+    path: Assets/Scenes/Shop2.unity
+    guid: 600a99a7f869da1468fe3e0ff1c7b3aa
+  - enabled: 1
+    path: Assets/Scenes/Ocean.unity
+    guid: de3fa76179fc8474aa0a0a7de0677098
+  - enabled: 1
+    path: Assets/Scenes/Map Night.unity
+    guid: e00905e93635dcb4396bfb09381346cc
+  - enabled: 1
+    path: Assets/Scenes/Shop3.unity
+    guid: 6d4afc19fb55d864ca68a05dc5153215
+  - enabled: 1
+    path: Assets/Scenes/Paradise.unity
+    guid: d30fbee988f498842a6e22beea9f1786
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 3a1246a64c217ff43b6879d2c98c9bc1
+  m_configObjects: {}
