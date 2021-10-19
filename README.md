@@ -108,7 +108,7 @@ TELECHARGEMENT :
 ******************
 	
 	Lien vers la forge :
-	https://forge.univ-lyon1.fr/p1707136/lifprojet
+	https://forge.univ-lyon1.fr/p1707136/lifprojet (private here and public on github)
 
 
 
